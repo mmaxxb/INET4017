@@ -1,0 +1,5 @@
+1. The most difficult part of this lab was setting up github
+2. The role of a web browser is to host and share websites so that others could easily find it 
+and so that the code is already rendered for others to see
+3. GitHub supports web developement by helping developers save their code and keep track of 
+all the changes they've done
