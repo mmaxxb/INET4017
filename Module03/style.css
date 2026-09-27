@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #9f1818;
+}
+h1 {
+    color: rgb(179, 179, 179);
+}
+p {
+    color: #f2c7c7;
+    font-size: 16px;
+}
+.box {
+    background-color: rgb(255, 0, 0);
+    padding: 20px;
+    margin: 20px;
+    border: 50px dotted black;
+    color: rgb(147, 147, 147);
+    font-size: 100px;
+}
