@@ -10,7 +10,7 @@ def home():
 def about():
     return "This is the About Page!"
 
-@app.route("/user/<name>").
+@app.route("/user/<name>")
 def user(name):
     return "Hello, " + name
 
